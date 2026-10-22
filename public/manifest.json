@@ -1,0 +1,11 @@
+{
+  "name": "造物星球 · 少儿编程",
+  "short_name": "造物星球",
+  "description": "通过创作任务学习编程思维",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d181c",
+  "theme_color": "#0d181c",
+  "lang": "zh-CN"
+}
